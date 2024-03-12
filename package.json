@@ -1,0 +1,16 @@
+{
+  "name": "btc-qqq3344521",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btc-qqq3344521"
+  },
+  "license": "ISC"
+}
